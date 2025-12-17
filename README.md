@@ -58,10 +58,10 @@ There are some extra tips on how to customize the theme on the [snippets page](h
 
 ### Acknowledgements
 
-- [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme): inspiration and code reference;
-- [Match-Yang/sddm-deepin](https://github.com/Match-Yang/sddm-deepin): inspiration and code reference;
-- [qt/qtvirtualkeyboard](https://github.com/qt/qtvirtualkeyboard): code reference;
-- [Joyston Judah](https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/): background;
-- [iconify.design](https://iconify.design/): icons
+- [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme): Inspiration and code reference
+- [Match-Yang/sddm-deepin](https://github.com/Match-Yang/sddm-deepin): Inspiration and code reference
+- [qt/qtvirtualkeyboard](https://github.com/qt/qtvirtualkeyboard): Code reference
+- [Joyston Judah](https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/): Background
+- [iconify.design](https://iconify.design/): Icons
 
 Send a message to this [email](mailto:uiriansan@gmail.com?subject=Background%20image%20in%20SilentSDDM) if you are the creator of some of these images and want them removed or acknowledged.
